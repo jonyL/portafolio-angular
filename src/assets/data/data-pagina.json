@@ -1,0 +1,12 @@
+{
+    "titulo": "Angular Portafolio",
+    "email" :"Correo@mail.com",
+    "nombre_corto": "Portafolio",
+    "pagina_autor": "http://tappxi.com.mx",
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com",
+    "instagram": "https://instagram.com", 
+    "tublr": "https://tumblr.com/",
+    "equipo_trabajo" : []
+
+}
